@@ -1,0 +1,12 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\Identity Card\obj\x86\Debug\Identity_Card.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Identity Card\obj\x86\Debug\Identity_Card.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\Identity Card\obj\x86\Debug\Identity Card.vbproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\Identity Card\bin\Debug\Identity Card.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Identity Card\bin\Debug\Identity Card.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\Identity Card\bin\Debug\Identity Card.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\Identity Card\obj\x86\Debug\Identity Card.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\Identity Card\obj\x86\Debug\Identity Card.xml
+C:\Users\Admin\AppData\Local\Temporary Projects\Identity Card\obj\x86\Debug\Identity Card.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Identity Card\Identity Card\obj\x86\Debug\Identity Card.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Identity Card\Identity Card\obj\x86\Debug\Identity Card.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\Identity Card\Identity Card\obj\x86\Debug\Identity Card.pdb
